@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯I am currently studying for Panellinies<br>🏅I want to create an app <br>
+🎯We done from Panellinies gang<br>⭐️Uploading daily projects<br>
 
 
 ## 🌐 Socials:
