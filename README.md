@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯We done from Panellinies gang<br>⭐️Uploading daily projects<br>
+🎯We done from Panellinies gang<br>⭐️Uploading daily projects<br>Check out my pomodoro timer: https://antwnakys.github.io/focusflow/  <br>
 
 
 ## 🌐 Socials:
