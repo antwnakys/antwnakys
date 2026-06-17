@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯We done from Panellinies gang<br>⭐️Uploading daily projects<br>⏳Check out my focus-assist timer: https://antwnakys.github.io/focusflow/  <br>🧮Check out my gpa-calculator: https://antwnakys.github.io/gpa-calculator/ <br>🗂️Check out my Schedule-Organizer: https://antwnakys.github.io/class-schedule-organizer/ <br>🎬Check out CineRate https://antwnakys.github.io/movierating/ <br>
+🎯We done from Panellinies gang<br>⭐️Uploading daily projects<br>⏳Check out focus-assist timer: https://antwnakys.github.io/focusflow/  <br>🧮Check out gpa-calculator: https://antwnakys.github.io/gpa-calculator/ <br>🗂️Check out Schedule-Organizer: https://antwnakys.github.io/class-schedule-organizer/ <br>🎬Check out CineRate https://antwnakys.github.io/movierating/ <br>
 
 
 ## 🌐 Socials:
