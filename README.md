@@ -1,23 +1,110 @@
-# 💫 About Me:
-🎯We done from Panellinies gang<br>⭐️Uploading Daily Projects<br>⏳Check out Focus-Assist timer: https://antwnakys.github.io/focusflow/  <br>🧮Check out Gpa-Calculator: https://antwnakys.github.io/gpa-calculator/ <br>🗂️Check out Schedule-Organizer: https://antwnakys.github.io/class-schedule-organizer/ <br>🎬Check out CineRate: https://antwnakys.github.io/movierating/ <br>📉Check out PaperTrader: https://paper-trader-gamma.vercel.app/ <br>⚡️Check out SafeVolts: https://safevolts.gr <br>
+<div align="center">
 
+# Hi, I'm Antonis 👋
+### Cybersecurity & AI Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anton.sgls) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@anton.sgls) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonsig08@gmail.com) 
+*Building secure systems and exploring intelligent architectures — I break things to understand how to build them better, then automate the process with Python.*
 
-# 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=antwnakys&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=antwnakys&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=antwnakys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonis-sigalas-836109335/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonsig08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antwnakys)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=antwnakys&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Highlights
 
+- 🔐 **[Achievement placeholder]** — e.g., *Ranked in the top X% in Y CTF competition / found N vulnerabilities during security research*
+- ⚙️ **[Achievement placeholder]** — e.g., *Built an automation tool that reduced [task] time by X%*
+- ⭐ **[Achievement placeholder]** — e.g., *Open-source project with X+ stars / X+ contributors*
 
+> Replace these with real numbers — CTF rankings, bug bounty finds, GitHub stars, performance improvements, or other certifications all work well here.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Security & AI**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Tools / DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+> ⚠️ Adjust these badges to match your real stack — add/remove frameworks as needed. Full badge list: https://github.com/Ileriayo/markdown-badges
+
+---
+
+## 🎓 Certifications
+
+- 🏅 **AI Fluency Framework & Foundations** — Anthropic *(Jun 2026)*
+- 🏅 **Claude Code in Action** — Anthropic *(Jun 2026)*
+- 🏅 **Introduction to Claude Cowork** — Anthropic *(Jun 2026)*
+- 🏅 **Claude Platform 101** — Anthropic *(Jun 2026)*
+- 🏅 **Claude Code 101** — Anthropic *(Jun 2026)*
+- 🏅 **Claude 101** — Anthropic *(Jun 2026)*
+
+---
+
+## 🎯 Featured Projects
+
+### 🔹 [Project Name One](https://github.com/antwnakys/project-one)
+Solves **[core problem — e.g., automates recon during CTF challenges to cut manual enumeration time]**.
+
+**Tech Stack:**
+- Python
+- [Library/Framework]
+- [Database/Tool]
+
+📸 *[Demo GIF / Screenshot placeholder — add an image link or asciinema recording here]*
+
+---
+
+### 🔹 [Project Name Two](https://github.com/antwnakys/project-two)
+Solves **[core problem — e.g., a CTF write-up archive with searchable exploit patterns]**.
+
+**Tech Stack:**
+- Python
+- [Library/Framework]
+- [Database/Tool]
+
+📸 *[Demo GIF / Screenshot placeholder — add an image link or asciinema recording here]*
+
+---
+
+## 📚 Currently Exploring
+
+- 🧠 AI/ML security (adversarial attacks, model hardening)
+- 🕸️ Advanced network exploitation
+- 🐹 [Add another interest — e.g., GoLang, malware analysis, cloud security]
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonis-sigalas-836109335/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:antonsig08@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antwnakys)
+
+</div>
+
+---
+
+<div align="center">
+<sub>⭐ Feel free to explore my repositories — feedback and collaboration always welcome.</sub>
+</div>
