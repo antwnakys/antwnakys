@@ -59,40 +59,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-### 🔹 [Project Name One](https://github.com/antwnakys/project-one)
-Solves **[core problem — e.g., automates recon during CTF challenges to cut manual enumeration time]**.
-
-**Tech Stack:**
-- Python
-- [Library/Framework]
-- [Database/Tool]
-
-📸 *[Demo GIF / Screenshot placeholder — add an image link or asciinema recording here]*
-
----
-
-### 🔹 [Project Name Two](https://github.com/antwnakys/project-two)
-Solves **[core problem — e.g., a CTF write-up archive with searchable exploit patterns]**.
-
-**Tech Stack:**
-- Python
-- [Library/Framework]
-- [Database/Tool]
-
-📸 *[Demo GIF / Screenshot placeholder — add an image link or asciinema recording here]*
-
----
-
-## 📚 Currently Exploring
-
-- 🧠 AI/ML security (adversarial attacks, model hardening)
-- 🕸️ Advanced network exploitation
-- 🐹 [Add another interest — e.g., GoLang, malware analysis, cloud security]
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
