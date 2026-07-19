@@ -34,10 +34,22 @@ and built end to end.
 
 ---
 
-### 🚀 Projects
+### 🛡️ Cybersecurity projects
+
+**🛰️ [log-sentinel](https://github.com/antwnakys/log-sentinel)** — AI-powered SSH log-anomaly explainer
+Heuristics flag brute-force & intrusion patterns; **Claude** explains each threat in plain English with severity + actions. `Python` · `AI` · `blue-team`
 
 **🔐 [Credential Checker](https://github.com/antwnakys/credential-checker)** — [live demo](https://antwnakys.github.io/credential-checker/)
-Privacy-preserving password strength & data-breach checker using the k-anonymity model. `Python` · `security` · `pytest`
+Privacy-preserving password strength & data-breach checker using the k-anonymity model. `Python` · `hashing` · `pytest`
+
+**🛰️ [port-scanner](https://github.com/antwnakys/port-scanner)** — concurrent TCP port scanner
+Built from scratch on sockets, with banner grabbing and a Markdown report flagging risky services. `Python` · `networking` · `red-team`
+
+**🚩 [CTF Writeups](https://github.com/antwnakys/ctf-writeups)** — reasoning-first solutions to Capture The Flag challenges (crypto, web, forensics, pwn)
+
+---
+
+### 🌐 Web & other projects
 
 **⚡ [SafeVolts](https://safevolts.gr)** — live on its own domain
 
