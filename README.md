@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>CS student · aspiring cybersecurity engineer · building with AI · Athens, Greece 🇬🇷</b><br>
-  <sub>🎯 Panellinies gang · ⭐ uploading projects regularly</sub>
+  <sub> · ⭐ uploading projects regularly</sub>
 </p>
 
 <p align="center">
