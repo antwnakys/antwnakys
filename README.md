@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Antonios 👋</h1>
 
 <p align="center">
-  <b>Aspiring cybersecurity engineer · building with AI · based in Athens, Greece 🇬🇷</b>
+  <b>CS student · aspiring cybersecurity engineer · building with AI · Athens, Greece 🇬🇷</b><br>
+  <sub>🎯 Panellinies gang · ⭐ uploading projects regularly</sub>
 </p>
 
 <p align="center">
-  <a href="mailto:antonsig08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-antonsig08%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-2ea44f?style=flat&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <a href="https://instagram.com/anton.sgls"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@anton.sgls"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:antonsig08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Certified-Anthropic%20Claude-8A2BE2?style=flat&logo=anthropic&logoColor=white" alt="Anthropic Certified" />
 </p>
 
@@ -16,31 +16,34 @@
 
 ### 🔎 About me
 
-I'm a student from Athens heading into a computer science degree, focused on
-**cybersecurity** and on building real tools with **AI / large language models**.
-I like understanding how systems break — and then building things that make them
-safer. I learn by shipping: every project here is something I built end to end,
-documented, and tested.
+CS student from Athens focused on **cybersecurity** and building real tools with
+**AI / large language models**. I learn by shipping — everything below is live
+and built end to end.
 
-- 🛡️ Learning offensive & defensive security through hands-on projects and CTFs
-- 🤖 **Certified on Anthropic's Claude** — I build security tooling that uses AI
+- 🛡️ Learning offensive & defensive security through hands-on projects
+- 🤖 **Certified on Anthropic's Claude (6 certifications)** — I build tooling that uses AI
 - 🌱 Currently going deeper on Python, networking, and secure-by-design thinking
 - 📫 Reach me at **antonsig08@gmail.com**
 
 ---
 
-### 🚀 Featured project
+### 🚀 Projects
 
-**[🔐 Credential Checker](https://github.com/antwnakys/credential-checker)** &nbsp;·&nbsp; [**▶️ Live demo**](https://antwnakys.github.io/credential-checker/)
+**🔐 [Credential Checker](https://github.com/antwnakys/credential-checker)** — [live demo](https://antwnakys.github.io/credential-checker/)
+Privacy-preserving password strength & data-breach checker using the k-anonymity model. `Python` · `security` · `pytest`
 
-A privacy-preserving tool that rates password strength **and** checks whether a
-password has leaked in a real data breach — *without ever sending the password
-over the network* (using the k-anonymity model). Ships as both a CLI and a
-client-side web app, with a full test suite.
+**⚡ [SafeVolts](https://safevolts.gr)** — live on its own domain
 
-`Python` · `hashing` · `k-anonymity` · `Have I Been Pwned API` · `pytest`
+**📉 [PaperTrader](https://paper-trader-gamma.vercel.app/)**
+Stock paper-trading app. `Vercel` · `Supabase`
 
-<!-- As you build more projects, add them here. Aim for 3–5 featured repos. -->
+**⏳ [FocusFlow](https://antwnakys.github.io/focusflow/)** — focus / Pomodoro timer
+
+**🧮 [GPA Calculator](https://antwnakys.github.io/gpa-calculator/)** — grade point average tool
+
+**🗂️ [Class Schedule Organizer](https://antwnakys.github.io/class-schedule-organizer/)** — timetable builder
+
+**🎬 [CineRate](https://antwnakys.github.io/movierating/)** — movie rating app
 
 ---
 
@@ -48,27 +51,24 @@ client-side web app, with a full test suite.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
 
-### 📜 Certifications
-
-- **Anthropic — Claude** (6 certifications) &nbsp;·&nbsp; building and prompting with LLMs
-<!-- Optional: list the exact certificate names here so visitors see the specifics. -->
-
----
-
-### 📊 GitHub stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antwnakys&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antwnakys&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antwnakys&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=antwnakys&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center"><i>Learning in public — more projects coming. 🚀</i></p>
