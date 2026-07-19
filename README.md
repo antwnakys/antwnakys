@@ -48,6 +48,9 @@ Built from scratch on sockets, with banner grabbing and a Markdown report flaggi
 **🛡️ [header-check](https://github.com/antwnakys/header-check)** — HTTP security-headers analyzer
 Grades a site's defenses (CSP, HSTS, clickjacking, …) A–F with actionable fixes. `Python` · `web-security` · `OWASP`
 
+**🔎 [file-integrity-monitor](https://github.com/antwnakys/file-integrity-monitor)** — Tripwire-style tamper detection
+SHA-256 baselines catch modified, added, or removed files — even size-preserving edits. `Python` · `blue-team` · `detection`
+
 **🚩 [CTF Writeups](https://github.com/antwnakys/ctf-writeups)** — reasoning-first solutions to Capture The Flag challenges (crypto, web, forensics, pwn)
 
 ---
