@@ -39,6 +39,9 @@ and built end to end.
 **🛰️ [log-sentinel](https://github.com/antwnakys/log-sentinel)** — AI-powered SSH log-anomaly explainer
 Heuristics flag brute-force & intrusion patterns; **Claude** explains each threat in plain English with severity + actions. `Python` · `AI` · `blue-team`
 
+**🎣 [phish-analyzer](https://github.com/antwnakys/phish-analyzer)** — AI-assisted phishing email detector
+Heuristics extract red flags; **Claude** returns a verdict (phishing/suspicious/legitimate) with reasoning. `Python` · `AI` · `email-security`
+
 **🔐 [Credential Checker](https://github.com/antwnakys/credential-checker)** — [live demo](https://antwnakys.github.io/credential-checker/)
 Privacy-preserving password strength & data-breach checker using the k-anonymity model. `Python` · `hashing` · `pytest`
 
