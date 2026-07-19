@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Antonios 👋</h1>
+<h1 align="center">Hi, I'm Antonis 👋</h1>
 
 <p align="center">
   <b>CS student · aspiring cybersecurity engineer · building with AI · Athens, Greece 🇬🇷</b><br>
