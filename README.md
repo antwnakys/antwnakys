@@ -48,6 +48,9 @@ Privacy-preserving password strength & data-breach checker using the k-anonymity
 **🛰️ [port-scanner](https://github.com/antwnakys/port-scanner)** — concurrent TCP port scanner
 Built from scratch on sockets, with banner grabbing and a Markdown report flagging risky services. `Python` · `networking` · `red-team`
 
+**🔓 [hash-cracker](https://github.com/antwnakys/hash-cracker)** — hash identifier + dictionary cracker
+Identifies MD5/SHA hashes and cracks weak ones — shows why unsalted hashes are unsafe. `Python` · `cryptography` · `red-team`
+
 **🛡️ [header-check](https://github.com/antwnakys/header-check)** — HTTP security-headers analyzer
 Grades a site's defenses (CSP, HSTS, clickjacking, …) A–F with actionable fixes. `Python` · `web-security` · `OWASP`
 
