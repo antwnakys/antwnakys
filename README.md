@@ -54,6 +54,9 @@ Grades a site's defenses (CSP, HSTS, clickjacking, …) A–F with actionable fi
 **🔎 [file-integrity-monitor](https://github.com/antwnakys/file-integrity-monitor)** — Tripwire-style tamper detection
 SHA-256 baselines catch modified, added, or removed files — even size-preserving edits. `Python` · `blue-team` · `detection`
 
+**🔑 [jwt-inspector](https://github.com/antwnakys/jwt-inspector)** — JWT security analyzer
+Flags `alg:none` & weak claims, and brute-forces weak HMAC secrets to forge tokens. `Python` · `web-auth` · `appsec`
+
 **🚩 [CTF Writeups](https://github.com/antwnakys/ctf-writeups)** — reasoning-first solutions to Capture The Flag challenges (crypto, web, forensics, pwn)
 
 ---
