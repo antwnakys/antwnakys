@@ -61,14 +61,20 @@ Stock paper-trading app. `Vercel` · `Supabase`
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Currently
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antwnakys&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antwnakys&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Learning-Cybersecurity-2ea44f?style=for-the-badge" alt="Learning Cybersecurity" />
+  <img src="https://img.shields.io/badge/Building%20with-AI%20%2F%20LLMs-8A2BE2?style=for-the-badge" alt="Building with AI" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-1f6feb?style=for-the-badge" alt="Open to Collaboration" />
 </p>
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=antwnakys&theme=tokyonight&hide_border=true" alt="Streak" />
+  🛡️ Sharpening my security skills · 🤖 building AI-powered tools · 🚀 shipping projects in public
+</p>
+
+<p align="center">
+  <a href="https://github.com/antwnakys?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 </p>
 
 <p align="center"><i>Learning in public — more projects coming. 🚀</i></p>
