@@ -60,6 +60,9 @@ SHA-256 baselines catch modified, added, or removed files — even size-preservi
 **🔑 [jwt-inspector](https://github.com/antwnakys/jwt-inspector)** — JWT security analyzer
 Flags `alg:none` & weak claims, and brute-forces weak HMAC secrets to forge tokens. `Python` · `web-auth` · `appsec`
 
+**🔐 [totp-authenticator](https://github.com/antwnakys/totp-authenticator)** — from-scratch 2FA code generator
+Implements TOTP/HOTP (RFC 4226/6238), verified against the official RFC test vectors. `Python` · `2FA` · `cryptography`
+
 **🚩 [CTF Writeups](https://github.com/antwnakys/ctf-writeups)** — reasoning-first solutions to Capture The Flag challenges (crypto, web, forensics, pwn)
 
 ---
