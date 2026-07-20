@@ -36,6 +36,9 @@ and built end to end.
 
 ### 🛡️ Cybersecurity projects
 
+**🧰 [Security Toolkit](https://github.com/antwnakys/security-toolkit)** — [**▶️ live demo**](https://antwnakys.github.io/security-toolkit/)
+Four security tools in one browser app: password/breach check, JWT inspector, hash identifier, headers grader — 100% client-side. `JavaScript` · `Web Crypto` · `appsec`
+
 **🛰️ [log-sentinel](https://github.com/antwnakys/log-sentinel)** — AI-powered SSH log-anomaly explainer
 Heuristics flag brute-force & intrusion patterns; **Claude** explains each threat in plain English with severity + actions. `Python` · `AI` · `blue-team`
 
